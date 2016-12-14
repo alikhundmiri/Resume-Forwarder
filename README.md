@@ -65,3 +65,7 @@ in the terminal write the following code:
 2. File location and file name with extension
 3. Number of addresses to send the email, here its 4 addresses
 4. List of the 4 addresses you want to send the email, seperated by space
+
+# Credits:
+This work is based on the work done by @NaelShiab:
+http://naelshiab.com/tutorial-send-email-python/
