@@ -2,8 +2,6 @@
 
 A python Script to send job application resume to different companies.
 
-# What is it
-
 This script will eliminate lot of time writing individual emails to all the firms i want to apply to.
 
 this comes built in with the following features.
